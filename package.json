@@ -1,0 +1,33 @@
+{
+  "name": "circumflex-notices",
+  "version": "0.0.1",
+  "description": "Simple session-backed notices middleware for Circumflex",
+  "dependencies": {
+    "sprintf": "*",
+    "underscore": "*"
+  },
+  "devDependencies": {
+    "express": "4.x.x",
+    "request": "*"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inca/circumflex-notices"
+  },
+  "keywords": [
+    "web",
+    "app",
+    "request",
+    "notices"
+  ],
+  "author": "Boris Okunskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inca/circumflex-notices/issues"
+  },
+  "homepage": "https://github.com/inca/circumflex-notices"
+}
